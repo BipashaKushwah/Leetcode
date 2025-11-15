@@ -3,8 +3,8 @@
  * @param {string} magazine
  * @return {boolean}
  */
-var canConstruct = function(ransomNote, magazine) {
-     const freq = {};
+var canConstruct = function (ransomNote, magazine) {
+    const freq = {};
 
     for (let char of magazine) {
         freq[char] = (freq[char] || 0) + 1;
