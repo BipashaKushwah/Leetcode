@@ -2,7 +2,7 @@
  * @param {string[]} strs
  * @return {string[][]}
  */
-var groupAnagrams = function(strs) {
+var groupAnagrams = function (strs) {
     const groups = {};
     for (const str of strs) {
         const sorted = str.split('').sort().join('');
