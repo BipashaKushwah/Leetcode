@@ -3,7 +3,7 @@
  * @param {number} denominator
  * @return {string}
  */
-var fractionToDecimal = function(numerator, denominator) {
+var fractionToDecimal = function (numerator, denominator) {
     if (numerator === 0) return "0";
 
     let result = "";
