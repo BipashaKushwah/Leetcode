@@ -18,6 +18,7 @@
 | [0016-3sum-closest](https://github.com/BipashaKushwah/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/BipashaKushwah/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
