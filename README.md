@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/BipashaKushwah/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | [0018-4sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/BipashaKushwah/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
