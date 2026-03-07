@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/BipashaKushwah/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
@@ -37,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/BipashaKushwah/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -56,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -76,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +110,8 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/BipashaKushwah/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
