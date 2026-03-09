@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +112,7 @@
 | [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/BipashaKushwah/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
