@@ -54,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [0205-isomorphic-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
