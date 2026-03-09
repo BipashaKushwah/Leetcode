@@ -25,6 +25,7 @@
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@
 | [0012-integer-to-roman](https://github.com/BipashaKushwah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
