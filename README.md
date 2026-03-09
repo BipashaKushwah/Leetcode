@@ -23,6 +23,7 @@
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | [0134-gas-station](https://github.com/BipashaKushwah/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +140,8 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
