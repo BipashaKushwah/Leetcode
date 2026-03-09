@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/BipashaKushwah/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/BipashaKushwah/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -128,4 +130,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
