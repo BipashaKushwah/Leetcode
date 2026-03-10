@@ -146,6 +146,7 @@
 | [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/BipashaKushwah/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/BipashaKushwah/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -192,4 +193,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/BipashaKushwah/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
