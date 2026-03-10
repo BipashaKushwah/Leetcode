@@ -141,6 +141,7 @@
 | [0029-divide-two-integers](https://github.com/BipashaKushwah/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/BipashaKushwah/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/BipashaKushwah/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/BipashaKushwah/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
