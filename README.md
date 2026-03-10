@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@
 | [0066-plus-one](https://github.com/BipashaKushwah/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/BipashaKushwah/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -185,6 +187,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/BipashaKushwah/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
