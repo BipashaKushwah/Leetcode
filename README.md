@@ -25,6 +25,7 @@
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -56,6 +57,7 @@
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -84,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -157,6 +160,7 @@
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -194,6 +198,7 @@
 | [0029-divide-two-integers](https://github.com/BipashaKushwah/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +211,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/BipashaKushwah/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
