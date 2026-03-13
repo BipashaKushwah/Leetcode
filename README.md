@@ -176,6 +176,7 @@
 | [0189-rotate-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/BipashaKushwah/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Matrix
