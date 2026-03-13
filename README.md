@@ -178,6 +178,7 @@
 | [0231-power-of-two](https://github.com/BipashaKushwah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -233,4 +234,12 @@
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
