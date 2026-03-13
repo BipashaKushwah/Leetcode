@@ -179,6 +179,7 @@
 | [0263-ugly-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/BipashaKushwah/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@
 | [0002-add-two-numbers](https://github.com/BipashaKushwah/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/BipashaKushwah/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/BipashaKushwah/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/BipashaKushwah/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
