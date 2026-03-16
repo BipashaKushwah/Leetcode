@@ -41,6 +41,7 @@
 | [0015-3sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/BipashaKushwah/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0061-rotate-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -120,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BipashaKushwah/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
