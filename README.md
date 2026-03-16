@@ -19,6 +19,7 @@
 | [0059-spiral-matrix-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/BipashaKushwah/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/BipashaKushwah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/BipashaKushwah/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0164-maximum-gap](https://github.com/BipashaKushwah/Leetcode/tree/main/0164-maximum-gap/) | Medium |
@@ -42,6 +43,7 @@
 | [0016-3sum-closest](https://github.com/BipashaKushwah/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/BipashaKushwah/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/BipashaKushwah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -58,6 +60,7 @@
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/BipashaKushwah/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/BipashaKushwah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/BipashaKushwah/Leetcode/tree/main/0164-maximum-gap/) | Medium |
