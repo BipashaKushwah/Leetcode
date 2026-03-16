@@ -80,6 +80,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/BipashaKushwah/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
