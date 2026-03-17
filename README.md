@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/BipashaKushwah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/BipashaKushwah/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0164-maximum-gap](https://github.com/BipashaKushwah/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
@@ -180,6 +181,7 @@
 | [0070-climbing-stairs](https://github.com/BipashaKushwah/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/BipashaKushwah/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BipashaKushwah/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -273,4 +275,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/BipashaKushwah/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
