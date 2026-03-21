@@ -117,6 +117,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BipashaKushwah/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/BipashaKushwah/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/BipashaKushwah/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/BipashaKushwah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/BipashaKushwah/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
