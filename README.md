@@ -128,6 +128,7 @@
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/BipashaKushwah/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | [0324-wiggle-sort-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -298,10 +300,12 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
