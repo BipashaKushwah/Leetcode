@@ -128,6 +128,7 @@
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/BipashaKushwah/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/BipashaKushwah/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BipashaKushwah/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -237,6 +238,7 @@
 | [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BipashaKushwah/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/BipashaKushwah/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/BipashaKushwah/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
