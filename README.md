@@ -127,6 +127,7 @@
 | [0043-multiply-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/BipashaKushwah/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/BipashaKushwah/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/BipashaKushwah/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -239,6 +240,7 @@
 | [0055-jump-game](https://github.com/BipashaKushwah/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/BipashaKushwah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BipashaKushwah/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/BipashaKushwah/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/BipashaKushwah/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/BipashaKushwah/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0097-interleaving-string/) | Medium |
