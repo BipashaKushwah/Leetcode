@@ -90,6 +90,7 @@
 | [0077-combinations](https://github.com/BipashaKushwah/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/BipashaKushwah/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/BipashaKushwah/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BipashaKushwah/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
