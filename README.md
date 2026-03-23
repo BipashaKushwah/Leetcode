@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/BipashaKushwah/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/BipashaKushwah/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/BipashaKushwah/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -87,6 +88,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/BipashaKushwah/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@
 | [0043-multiply-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/BipashaKushwah/Leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BipashaKushwah/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0179-largest-number/) | Medium |
@@ -218,6 +221,7 @@
 | [0048-rotate-image](https://github.com/BipashaKushwah/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BipashaKushwah/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +318,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
