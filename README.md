@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/BipashaKushwah/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/BipashaKushwah/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/BipashaKushwah/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0047-permutations-ii/) | Medium |
@@ -296,6 +297,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/BipashaKushwah/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
