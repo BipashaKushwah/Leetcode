@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/BipashaKushwah/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -84,6 +85,7 @@
 | [0217-contains-duplicate](https://github.com/BipashaKushwah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/BipashaKushwah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/BipashaKushwah/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -265,6 +267,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/BipashaKushwah/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
