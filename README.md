@@ -139,6 +139,7 @@
 | [0013-roman-to-integer](https://github.com/BipashaKushwah/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/BipashaKushwah/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/BipashaKushwah/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/BipashaKushwah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/BipashaKushwah/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0043-multiply-strings/) | Medium |
@@ -334,6 +335,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/BipashaKushwah/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
