@@ -145,6 +145,7 @@
 | [0043-multiply-strings](https://github.com/BipashaKushwah/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/BipashaKushwah/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/BipashaKushwah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/BipashaKushwah/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/BipashaKushwah/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/BipashaKushwah/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/BipashaKushwah/Leetcode/tree/main/0091-decode-ways/) | Medium |
@@ -336,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BipashaKushwah/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/BipashaKushwah/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
