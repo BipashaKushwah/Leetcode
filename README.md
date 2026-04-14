@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -130,6 +131,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
