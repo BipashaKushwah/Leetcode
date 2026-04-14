@@ -50,6 +50,7 @@
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/BipashaKushwah/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/BipashaKushwah/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/BipashaKushwah/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@
 | [0496-next-greater-element-i](https://github.com/BipashaKushwah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/BipashaKushwah/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/BipashaKushwah/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/BipashaKushwah/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@
 | [0061-rotate-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/BipashaKushwah/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0705-design-hashset](https://github.com/BipashaKushwah/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/BipashaKushwah/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,8 +389,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/BipashaKushwah/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/BipashaKushwah/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/BipashaKushwah/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/BipashaKushwah/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
