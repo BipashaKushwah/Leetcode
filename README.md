@@ -89,6 +89,7 @@
 | [0324-wiggle-sort-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -128,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BipashaKushwah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BipashaKushwah/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@
 | [0290-word-pattern](https://github.com/BipashaKushwah/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Linked List
@@ -294,6 +297,7 @@
 | [0089-gray-code](https://github.com/BipashaKushwah/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/BipashaKushwah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/BipashaKushwah/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
