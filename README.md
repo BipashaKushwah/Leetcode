@@ -45,6 +45,7 @@
 | [0376-wiggle-subsequence](https://github.com/BipashaKushwah/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/BipashaKushwah/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/BipashaKushwah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/BipashaKushwah/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BipashaKushwah/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/BipashaKushwah/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -132,6 +133,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/BipashaKushwah/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BipashaKushwah/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/BipashaKushwah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0767-reorganize-string](https://github.com/BipashaKushwah/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -350,11 +352,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/BipashaKushwah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/BipashaKushwah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BipashaKushwah/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/BipashaKushwah/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/BipashaKushwah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
